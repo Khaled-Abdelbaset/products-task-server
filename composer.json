@@ -1,0 +1,16 @@
+{
+  "name": "khaled-abdelbaset/scandiweb-junior-web-developer-task",
+  "description": "Products Task",
+  "authors": [
+    {
+      "name": "Khaled Abdelbaset",
+      "email": "khaledabdelbaset98@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}

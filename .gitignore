@@ -1,0 +1,5 @@
+/vendore
+/node_modules
+/Config/dp.php
+.env
+.vscode
